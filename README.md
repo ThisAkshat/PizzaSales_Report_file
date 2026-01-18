@@ -63,6 +63,10 @@ This project analyzes a year's worth of pizza sales data (Jan-Dec 2015) to uncov
 - Provides data-driven insights for marketing strategies
 
 ### **Screenshots:**
+
+### Home Page Dashboard  
+![Home Page Dashboard](HomePage_PizzaSales.png)
+
 ### Best & Worst Sellers Dashboard
 ![Best-Worst Sellers Dashboard](Best-Worst_Sellers.png)
 
