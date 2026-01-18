@@ -62,6 +62,9 @@ This project analyzes a year's worth of pizza sales data (Jan-Dec 2015) to uncov
 - Reveals customer preferences for menu optimization
 - Provides data-driven insights for marketing strategies
 
+### **Screenshots:**
+- https://github.com/ThisAkshat/PizzaSales_Report_file/blob/main/HomePage_PizzaSales.png
+
 ---
 
 **GitHub Repository**: Includes complete SQL scripts, Power BI dashboard screenshots, and detailed analysis documentation.
